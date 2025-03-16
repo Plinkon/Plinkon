@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Plinkon/Plinkon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Plinkon**, a very super epic `C++` developer.
 
-Here are some ideas to get you started:
+## Fun Facts 👍
+- I'm a very epic person
+- I have many years of experience in C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests 📝
+- C++ development
+- GUI and console application development
+- Hacking / Pentesting
+- Creating libraries
+
+## Goals 🚀
+- Make things easier for everyone
+- Solve common problems
