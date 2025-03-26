@@ -8,6 +8,7 @@ I'm **Plinkon**, a very super epic `C++` developer.
 
 ## Interests 📝
 - C++ development
+- Python development
 - GUI and console application development
 - Hacking / Pentesting
 - Creating libraries
