@@ -10,9 +10,11 @@ I'm **Plinkon**, a very super epic `C++` developer.
 - C++ development
 - Python development
 - GUI and console application development
+- Desktop application development
 - Hacking / Pentesting
 - Creating libraries
+- Creating systems
 
 ## Goals 🚀
 - Make things easier for everyone
-- Solve common problems
+- Solve common and niche problems
